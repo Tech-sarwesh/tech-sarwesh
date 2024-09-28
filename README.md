@@ -58,8 +58,12 @@
   Here is a project I'm proud of:
 </p>
 <ul style="list-style-type: none; text-align: center;">
-  <li><a href="https://github.com/Tech-sarwesh/whatsapp-chat-analysis.git">📈 Project 1: Whatsapp Chat Analysis</a> Statistics and Graph of Your Whastapp Chat .</li>
+  <li><a href="https://github.com/Tech-sarwesh/whatsapp-chat-analysis.git">📈 Project 1: Whatsapp Chat Analysis:</a> ~Statistics and Graph of Your Whastapp Chat .</li>
 </ul>
+<ul style="list-style-type: none; text-align: center;">
+  <li><a href="https://github.com/Tech-sarwesh/Covid-19-Impact-Analysis.git">📈 Project 2: Covid-19-Impact-Analysis:</a> ~Graph of Impact After Covid-19 .</li>
+</ul>
+
 
 ---
 
